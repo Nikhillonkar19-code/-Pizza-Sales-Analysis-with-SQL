@@ -74,6 +74,12 @@ This analysis enabled data-driven decisions to:
 > *"Data is the secret ingredient in every successful recipe!"*
 
 ---
+## 📄 Project Presentation
+
+You can view the full presentation here:  
+👉 [Pizza Hut Sales Analysis – PDF](https://github.com/Nikhillonkar19-code/-Pizza-Sales-Analysis-with-SQL/blob/main/Pizza%20hutt%20Analysis%20Presentation.pdf)
+
+
 
 
 
